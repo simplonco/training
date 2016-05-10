@@ -1,12 +1,12 @@
 # Training
 
-* [General / META](https://github.com/simplonco/meta-general)
+* [General / META](https://github.com/simplonco/meta-general) _(TODO)_
 
 * [HTML & CSS](https://github.com/simplonco/html-css)
 
-* UNIX / Bash _(TODO)_
+* [UNIX / Bash](https://github.com/simplonco/unix-bash) _(TODO)_
 
-* [Git](https://github.com/simplonco/git/)
+* [Git](https://github.com/simplonco/git/) _(Experimental)_
   is a fast, scalable,
   distributed revision control
   system with an unusually rich
@@ -23,11 +23,11 @@
 
 * AngularJS _(TODO)_
 
-* [PHP](https://github.com/simplonco/php)
+* [PHP](https://github.com/simplonco/php) _(Experimental)_
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 
-* [Ruby](https://github.com/simplonco/ruby)
+* [Ruby](https://github.com/simplonco/ruby) _(TODO)_
 
 ## Wiki
 
