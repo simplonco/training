@@ -1,5 +1,7 @@
 # Training
 
+* [HTML & CSS](https://github.com/simplonco/html-css)
+
 * [Git](https://github.com/simplonco/git/)
   is a fast, scalable,
   distributed revision control
