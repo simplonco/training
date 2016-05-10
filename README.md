@@ -1,4 +1,4 @@
-# Training
+# Formation
 
 * [META (General ressources)](https://github.com/simplonco/meta)
 
