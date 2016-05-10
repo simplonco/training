@@ -1,5 +1,7 @@
 # Training
 
+* [General / META](https://github.com/simplonco/meta-general)
+
 * [HTML & CSS](https://github.com/simplonco/html-css)
 
 * UNIX / Bash _(TODO)_
@@ -24,6 +26,8 @@
 * [PHP](https://github.com/simplonco/php)
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+
+* [Ruby](https://github.com/simplonco/ruby)
 
 ## Wiki
 
