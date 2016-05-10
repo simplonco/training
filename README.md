@@ -6,7 +6,7 @@
 
 * [UNIX / Bash](https://github.com/simplonco/unix-bash) _(TODO)_
 
-* [Git](https://github.com/simplonco/git/) _(Experimental)_
+* [Git](https://github.com/simplonco/git/)
   is a fast, scalable,
   distributed revision control
   system with an unusually rich
@@ -23,7 +23,7 @@
 
 * AngularJS _(TODO)_
 
-* [PHP](https://github.com/simplonco/php) _(Experimental)_
+* [PHP](https://github.com/simplonco/php)
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 
