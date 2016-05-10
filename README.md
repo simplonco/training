@@ -1,4 +1,4 @@
-# Training
+# Formation
 
 * [Git](https://github.com/simplonco/git/)
   is a fast, scalable,
