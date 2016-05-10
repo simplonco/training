@@ -1,6 +1,6 @@
 # Training
 
-* [META (General ressources)](https://github.com/simplonco/meta-general)
+* [META (General ressources)](https://github.com/simplonco/meta)
 
 * [HTML & CSS](https://github.com/simplonco/html-css)
 
