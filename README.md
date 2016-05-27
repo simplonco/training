@@ -27,9 +27,9 @@
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 
-* [Ruby](https://github.com/simplonco/ruby) _(TODO)_
+* [Ruby](https://github.com/simplonco/ruby) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
 
-* [Python](https://github.com/simplonco/python) _(TODO)_
+* [Python](https://github.com/simplonco/python) is a programming language that lets you work quickly and integrate systems more effectively.
 
 ## Wiki
 
