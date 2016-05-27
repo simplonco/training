@@ -30,10 +30,3 @@
 * [Ruby](https://github.com/simplonco/ruby) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
 
 * [Python](https://github.com/simplonco/python) is a programming language that lets you work quickly and integrate systems more effectively.
-
-## Wiki
-
-* [Home](https://github.com/simplonco/LeDepot/wiki)
-* [Culture Web](https://github.com/simplonco/LeDepot/wiki/Culture-Web)
-* [Outils](https://github.com/simplonco/LeDepot/wiki/Outils)
-* [Support HTML-CSS](https://github.com/simplonco/LeDepot/wiki/Support-HTML--CSS)
