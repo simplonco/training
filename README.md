@@ -29,6 +29,8 @@
 
 * [Ruby](https://github.com/simplonco/ruby) _(TODO)_
 
+* [Python](https://github.com/simplonco/python) _(TODO)_
+
 ## Wiki
 
 * [Home](https://github.com/simplonco/LeDepot/wiki)
