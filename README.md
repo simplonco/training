@@ -2,7 +2,7 @@
 
 * [META (General ressources)](https://github.com/simplonco/meta)
 
-* [HTML & CSS](https://github.com/simplonco/html-css)
+## Tools 
 
 * [UNIX / Bash](https://github.com/simplonco/unix-bash)
 
@@ -14,10 +14,16 @@
   high-level operations and full
   access to internals.
 
+## FrontEnd
+
+* [HTML & CSS](https://github.com/simplonco/html-css)
+
 * [JavaScript](https://github.com/simplonco/js)
   (JS) is a lightweight, interpreted, programming language with first-class functions.
 
 * [jQuery](https://github.com/simplonco/jquery): The Write Less, Do More, JavaScript Library.
+
+## BackEnd
 
 * [PHP](https://github.com/simplonco/php)
   is a popular general-purpose scripting language that is especially suited to web development.
