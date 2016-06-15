@@ -16,7 +16,7 @@
 
 ## FrontEnd
 
-* [HTML & CSS](https://github.com/simplonco/html-css)
+* [HTML5 & CSS3](https://github.com/simplonco/html-css) (HyperText Markup Language | Cascading Style Sheets)
 
 * [JavaScript](https://github.com/simplonco/js)
   (JS) is a lightweight, interpreted, programming language with first-class functions.
