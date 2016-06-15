@@ -1,12 +1,12 @@
 # Training
 
-* [META (General ressources)](https://github.com/simplonco/meta)
+* [META (General ressources)](https://github.com/simplonco/meta-training)
 
 ## Tools 
 
-* [UNIX / Bash](https://github.com/simplonco/unix-bash)
+* [UNIX / Shell](https://github.com/simplonco/unix-shell-training)
 
-* [Git](https://github.com/simplonco/git/)
+* [Git](https://github.com/simplonco/git-training)
   is a fast, scalable,
   distributed revision control
   system with an unusually rich
@@ -16,19 +16,19 @@
 
 ## FrontEnd
 
-* [HTML5 & CSS3](https://github.com/simplonco/html-css) (HyperText Markup Language | Cascading Style Sheets)
+* [HTML5 & CSS3](https://github.com/simplonco/html-css-training) (HyperText Markup Language | Cascading Style Sheets)
 
-* [JavaScript](https://github.com/simplonco/js)
+* [JavaScript](https://github.com/simplonco/js-training)
   (JS) is a lightweight, interpreted, programming language with first-class functions.
 
-* [jQuery](https://github.com/simplonco/jquery): The Write Less, Do More, JavaScript Library.
+* [jQuery](https://github.com/simplonco/jquery-training): The Write Less, Do More, JavaScript Library.
 
 ## BackEnd
 
-* [Ruby](https://github.com/simplonco/ruby) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
+* [Ruby](https://github.com/simplonco/ruby-training) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
 
-* [Python](https://github.com/simplonco/python) is a programming language that lets you work quickly and integrate systems more effectively.
+* [Python](https://github.com/simplonco/python-training) is a programming language that lets you work quickly and integrate systems more effectively.
 
-* [PHP](https://github.com/simplonco/php)
+* [PHP](https://github.com/simplonco/php-training)
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
