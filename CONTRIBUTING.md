@@ -6,11 +6,13 @@ Depuis 2011, Simplon réunit de plus en plus d’essaimages en France avec donc 
 
 ## Nomenclature
 
-Les repo doivent être écrits sous cette forme afin d’uniformiser les catégories et de faciliter le travail de recherche et de référencement au sein de GitLab
+`{techno}-{type}-{name}`
+
+Les repo doivent être écrits sous cette forme afin d’uniformiser les catégories et de faciliter le travail de recherche et de référencement au sein de GitLab.
 
 Voici l’exemple d’un nom de repo, il est décomposé en **trois parties** :
 
-**php-workshops-twig**
+`php-workshops-twig`
 
 Il contient en **première partie** le nom de la technologie principale, ensuite il contient en **deuxième partie** la catégorie du repo d’après le tableau ci-dessous (vous remarquerez que le nom est toujours au pluriel) :
 
@@ -18,22 +20,22 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
   <tr>
     <td>challenges</td>
     <td>TDD exercices</td>
-    <td>xxx-challenges</td>
+    <td>`{techno}-challenges{name}`</td>
   </tr>
   <tr>
     <td>workshops</td>
     <td>Tutoriel / Courses / Short code activity</td>
-    <td>xxx-workshops</td>
+    <td>`{techno}-workshops{name}`</td>
   </tr>
   <tr>
     <td>ressources</td>
     <td>Currated list of external urls / Root of technology - modules</td>
-    <td>xxx-training</td>
+    <td>`{techno}-training{name}`</td>
   </tr>
   <tr>
     <td>projects</td>
     <td>Long project activity / Without tutorial / Cahier des charges / Autonomy</td>
-    <td>projects-xxx</td>
+    <td>`{techno}-projects-{name}`</td>
   </tr>
 </table>
 
