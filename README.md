@@ -36,6 +36,6 @@
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 
-## How to contribute
+## How to Contribute
 
 Read the Contribution guide: https://gitlab.com/simplon-co/training/blob/master/CONTRIBUTING.md
