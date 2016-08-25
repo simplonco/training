@@ -18,9 +18,14 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
 
 <table>
   <tr>
-    <td>ressources</td>
-    <td>Currated list of external urls / root of GitLab repository for a technology - modules</td>
+    <td>training</td>
+    <td>Root of GitLab repository for a technology - modules</td>
     <td>{techno}-training-{name}</td>
+  </tr>
+  <tr>
+    <td>ressources</td>
+    <td>Currated list of external urls - ressources</td>
+    <td>{techno}-ressources-{name}</td>
   </tr>
   <tr>
     <td>project(s)</td>
