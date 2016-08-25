@@ -29,7 +29,7 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
   </tr>
   <tr>
     <td>challenge(s)</td>
-    <td>TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), imported from exercism.io</td>
+    <td>TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), can be imported from exercism.io</td>
     <td>{techno}-challenge(s)-{name}</td>
   </tr>
   <tr>
