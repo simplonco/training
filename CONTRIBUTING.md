@@ -18,23 +18,28 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
 
 <table>
   <tr>
-    <td>challenges</td>
-    <td>TDD exercices</td>
+    <td>challenge(s)</td>
+    <td>TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), imported from exercism.io</td>
     <td>{techno}-challenges-{name}</td>
   </tr>
   <tr>
-    <td>workshops</td>
-    <td>Tutoriel / Courses / Short code activity</td>
+    <td>exercise(s)</td>
+    <td>Exercices given without automated validation, with just a short subject / explanation</td>
+    <td>{techno}-challenges-{name}</td>
+  </tr>
+  <tr>
+    <td>workshop(s)</td>
+    <td>Guided tutorial / courses / short code activity</td>
     <td>{techno}-workshops-{name}</td>
   </tr>
   <tr>
-    <td>ressources</td>
-    <td>Currated list of external urls / Root of technology - modules</td>
+    <td>ressource(s)</td>
+    <td>Currated list of external urls / root of GitLab repository for a technology - modules</td>
     <td>{techno}-training-{name}</td>
   </tr>
   <tr>
-    <td>projects</td>
-    <td>Long project activity / Without tutorial / Cahier des charges / Autonomy</td>
+    <td>project(s)</td>
+    <td>Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy</td>
     <td>{techno}-projects-{name}</td>
   </tr>
 </table>
