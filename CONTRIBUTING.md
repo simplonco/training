@@ -1,4 +1,4 @@
-# How to - Gitlab
+# How to Contribute
 
 ## Contexte
 
