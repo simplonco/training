@@ -20,22 +20,22 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
   <tr>
     <td>challenges</td>
     <td>TDD exercices</td>
-    <td>`{techno}-challenges{name}`</td>
+    <td>{techno}-challenges-{name}</td>
   </tr>
   <tr>
     <td>workshops</td>
     <td>Tutoriel / Courses / Short code activity</td>
-    <td>`{techno}-workshops{name}`</td>
+    <td>{techno}-workshops-{name}</td>
   </tr>
   <tr>
     <td>ressources</td>
     <td>Currated list of external urls / Root of technology - modules</td>
-    <td>`{techno}-training{name}`</td>
+    <td>{techno}-training-{name}</td>
   </tr>
   <tr>
     <td>projects</td>
     <td>Long project activity / Without tutorial / Cahier des charges / Autonomy</td>
-    <td>`{techno}-projects-{name}`</td>
+    <td>{techno}-projects-{name}</td>
   </tr>
 </table>
 
