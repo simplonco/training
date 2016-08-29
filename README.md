@@ -42,4 +42,5 @@
 
 Read the [Contribution guide](https://gitlab.com/simplon-co/training/blob/master/CONTRIBUTING.md)!
 
+
 _To be continued.._
