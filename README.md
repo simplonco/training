@@ -38,4 +38,4 @@
 
 ## How to Contribute
 
-Read the Contribution guide: https://gitlab.com/simplon-co/training/blob/master/CONTRIBUTING.md
+Read the [Contribution guide](https://gitlab.com/simplon-co/training/blob/master/CONTRIBUTING.md)!
