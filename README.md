@@ -36,6 +36,8 @@
   is a popular general-purpose scripting language that is especially suited to web development.
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 
+* [Java](https://github.com/simplonco/java-training)
+
 ## How to Contribute
 
 Read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md)!
