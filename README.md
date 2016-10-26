@@ -1,4 +1,4 @@
-# Training
+# Simplon.co Training
 
 * [META](https://github.com/simplonco/meta-training) (General ressources)
 
