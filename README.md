@@ -2,6 +2,8 @@
 
 * [META](https://github.com/simplonco/meta-training) (General ressources)
 
+* [Prairie](https://github.com/simplonco/prairie)
+
 ## Tools 
 
 * [UNIX](https://github.com/simplonco/unix-training)
