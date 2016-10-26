@@ -1,4 +1,4 @@
-# Simplon.co Web Development Courses
+# Simplon.co
 
 * [META](https://github.com/simplonco/meta-training) (General ressources)
 
