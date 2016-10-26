@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Depuis 2011, Simplon réunit de plus en plus d’essaimages en France avec donc de plus en plus de formateurs. Chaque formateur a pu donc au fur et à mesure de sa formation, créer, utiliser et centraliser du contenu pour ses apprenants. Cependant, aucune plateforme n’a été utilisée afin de réunir correctement et d’une manière utile au développement ces différents contenus. Après un audit auprès des formateurs, il s’est avéré que le meilleur choix pour centraliser le contenu étant Github. Création de workshops, publications de supports de cours mais surtout revue de code et versionning, c’est donc l’outil idéal à utiliser.
+Depuis 2011, Simplon.co réunit de plus en plus d’essaimages en France avec donc de plus en plus de formateurs. Chaque formateur a pu donc au fur et à mesure de sa formation, créer, utiliser et centraliser du contenu pour ses apprenants. Cependant, aucune plateforme n’a été utilisée afin de réunir correctement et d’une manière utile au développement ces différents contenus. Après un audit auprès des formateurs, il s’est avéré que le meilleur choix pour centraliser le contenu étant GitHub. Création de workshops, publications de supports de cours mais surtout revue de code et versionning, c’est donc l’outil idéal à utiliser.
 
 ## Nomenclature
 
@@ -68,11 +68,11 @@ Une connexion SSO avec Github est disponible. Nous vous conseillons d’utiliser
 
 > _TODO_
 
-## Ajouter un repo dans le groupe principal de simplon-co
+## Ajouter un repo dans le groupe principal de `simplonco`
 
 > _TODO_
 
-## Ajouter un repo du groupe simplon-co dans son groupe de promotion
+## Ajouter un repo du groupe `simplonco` dans son groupe de promotion
 
 > _TODO_
 
