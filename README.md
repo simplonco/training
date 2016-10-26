@@ -4,6 +4,8 @@
 
 * [Prairie](https://github.com/simplonco/prairie) _TODO.._
 
+* [Challenges](https://github.com/simplonco/challenges) _TODO.._
+
 ## Tools 
 
 * [UNIX](https://github.com/simplonco/unix-training)
