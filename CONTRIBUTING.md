@@ -60,7 +60,7 @@ Afin de garder une cohérence dans le projet, il est nécessaire de bien faire u
 
 > _TODO_
 
-## Créer un identifiant Gitlab
+## Créer un identifiant GitHub
 
 Une connexion SSO avec Github est disponible. Nous vous conseillons d’utiliser ce mode de connexion afin de pouvoir facilement importer vos projets de votre compte Github à l’avenir.
 
