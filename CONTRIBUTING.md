@@ -58,7 +58,7 @@ Il faut essayer d’être simple et qu’il soit facilement compréhensible avec
 
 Afin de garder une cohérence dans le projet, il est nécessaire de bien faire une recherche dans le contenu avant de publier un nouveau repo.
 
-> _// TO BE CONTINUED_
+> _TODO_
 
 ## Créer un identifiant Gitlab
 
