@@ -66,23 +66,23 @@ Une connexion SSO avec Github est disponible. Nous vous conseillons d’utiliser
 
 ## Créer son groupe correspondant à sa promotion
 
-> _// TO DO_
+> _TODO_
 
 ## Ajouter un repo dans le groupe principal de simplon-co
 
-> _// TO DO_
+> _TODO_
 
 ## Ajouter un repo du groupe simplon-co dans son groupe de promotion
 
-> _// TO DO_
+> _TODO_
 
 ## Ajouter un apprenant dans son groupe de promotion
 
-> _// TO DO_
+> _TODO_
 
 ## Sources externes
 
-> _// TO DO_
+> _TODO_
 
 
 _To be continued.._
