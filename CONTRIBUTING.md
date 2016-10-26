@@ -58,7 +58,7 @@ Il faut essayer d’être simple et qu’il soit facilement compréhensible avec
 
 Afin de garder une cohérence dans le projet, il est nécessaire de bien faire une recherche dans le contenu avant de publier un nouveau repo.
 
-_// TO BE CONTINUED_
+> _// TO BE CONTINUED_
 
 ## Créer un identifiant Gitlab
 
@@ -66,23 +66,23 @@ Une connexion SSO avec Github est disponible. Nous vous conseillons d’utiliser
 
 ## Créer son groupe correspondant à sa promotion
 
-_// TO DO_
+> _// TO DO_
 
 ## Ajouter un repo dans le groupe principal de simplon-co
 
-_// TO DO_
+> _// TO DO_
 
 ## Ajouter un repo du groupe simplon-co dans son groupe de promotion
 
-_// TO DO_
+> _// TO DO_
 
 ## Ajouter un apprenant dans son groupe de promotion
 
-_// TO DO_
+> _// TO DO_
 
 ## Sources externes
 
-_// TO DO_
+> _// TO DO_
 
 
 _To be continued.._
