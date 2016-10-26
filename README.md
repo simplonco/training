@@ -2,7 +2,7 @@
 
 * [META](https://github.com/simplonco/meta-training) (General ressources)
 
-* [Prairie](https://github.com/simplonco/prairie)
+* [Prairie](https://github.com/simplonco/prairie) _TODO.._
 
 ## Tools 
 
