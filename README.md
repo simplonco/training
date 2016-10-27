@@ -4,7 +4,7 @@
 
 * [Prairie](https://github.com/simplonco/prairie) _TODO.._
 
-* [Challenges](https://github.com/simplonco/challenges) _TODO.._
+* [Challenges](https://github.com/simplonco/challenges) _TDD exercices validated by [Travis CI](https://travis-ci.org/) (cool for algorithms teaching), was imported from [exercism.io](http://exercism.io/)_
 
 ## Tools 
 
