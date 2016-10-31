@@ -43,6 +43,14 @@
 * [Java](https://github.com/simplonco/java-training)
   _TODO.._
 
+## Setup
+
+```shell
+$ git clone --recursive https://github.com/simplonco/training/ simplonco
+$ cd simplonco
+$ git submodule update --recursive --remote
+```
+
 ## How to Contribute
 
 Read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md)!
