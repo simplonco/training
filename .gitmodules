@@ -1,0 +1,36 @@
+[submodule "meta-training"]
+	path = meta-training
+	url = https://github.com/simplonco/meta-training
+[submodule "prairie"]
+	path = prairie
+	url = https://github.com/simplonco/prairie
+[submodule "challenges"]
+	path = challenges
+	url = https://github.com/simplonco/challenges
+[submodule "unix-training"]
+	path = unix-training
+	url = https://github.com/simplonco/unix-training
+[submodule "git-training"]
+	path = git-training
+	url = https://github.com/simplonco/git-training
+[submodule "html-css-training"]
+	path = html-css-training
+	url = https://github.com/simplonco/html-css-training
+[submodule "js-training"]
+	path = js-training
+	url = https://github.com/simplonco/js-training
+[submodule "jquery-training"]
+	path = jquery-training
+	url = https://github.com/simplonco/jquery-training
+[submodule "ruby-training"]
+	path = ruby-training
+	url = https://github.com/simplonco/ruby-training
+[submodule "python-training"]
+	path = python-training
+	url = https://github.com/simplonco/python-training
+[submodule "php-training"]
+	path = php-training
+	url = https://github.com/simplonco/php-training
+[submodule "java-training"]
+	path = java-training
+	url = https://github.com/simplonco/java-training
