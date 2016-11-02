@@ -49,6 +49,7 @@
 $ git clone --recursive https://github.com/simplonco/training/ simplonco
 $ cd simplonco
 $ git submodule update --recursive --remote
+$ git submodule foreach --recursive git checkout master
 ```
 
 ## How to Contribute
