@@ -23,9 +23,9 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
     <td>{techno}-training-{name}</td>
   </tr>
   <tr>
-    <td>ressources</td>
-    <td>Currated list of external urls - ressources</td>
-    <td>{techno}-ressources-{name}</td>
+    <td>resources</td>
+    <td>Currated list of external urls - resources</td>
+    <td>{techno}-resources-{name}</td>
   </tr>
   <tr>
     <td>project(s)</td>
