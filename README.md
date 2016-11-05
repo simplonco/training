@@ -4,7 +4,7 @@
 
 * [La Prairie](https://github.com/simplonco/prairie) is the first part of your training at Simplon.co: 20 days of full autonomy (your trainers will not give you any technical course) to learn the basics of web development!
 
-* [Challenges](https://github.com/simplonco/challenges) TDD exercices validated by [Travis CI](https://travis-ci.org/) (cool for algorithms teaching), was imported from [exercism.io](http://exercism.io/)
+* [Challenges](https://github.com/simplonco/challenges) are TDD exercices validated by [Travis CI](https://travis-ci.org/) (cool for algorithms teaching), was imported from [exercism.io](http://exercism.io/)
 
 ## Tools 
 
