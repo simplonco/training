@@ -41,7 +41,8 @@
   Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 
 * [Java](https://github.com/simplonco/java-training)
-  _TODO.._
+  is the world’s # 1 programming language!
+  Java can reduce costs, drive innovation, and improve application services as the programming language of choice for IoT, enterprise architecture, and cloud computing.
 
 ## Setup
 
