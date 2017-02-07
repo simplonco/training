@@ -2,21 +2,29 @@
 
 > Guidelines for repository contributors
 
-## Contexte
+## Contexte historique
 
-Depuis 2011, Simplon.co réunit de plus en plus d’essaimages en France avec donc de plus en plus de formateurs. Chaque formateur a pu donc au fur et à mesure de sa formation, créer, utiliser et centraliser du contenu pour ses apprenants. Cependant, aucune plateforme n’a été utilisée afin de réunir correctement et d’une manière utile au développement ces différents contenus. Après un audit auprès des formateurs, il s’est avéré que le meilleur choix pour centraliser le contenu étant GitHub. Création de workshops, publications de supports de cours mais surtout revue de code et versionning, c’est donc l’outil idéal à utiliser.
+Depuis 2011, Simplon.co réunit de plus en plus d’essaimages avec donc de plus en plus de formateurs. Chaque formateur a pu donc au fur et à mesure de sa formation, créer, utiliser et centraliser du contenu pour ses apprenants. Cependant, aucune plateforme n’avait été utilisée afin de réunir correctement et d’une manière utile au développement ces différents contenus.
 
-## Nomenclature
+Suite à un audit auprès des formateurs, il s’est avéré que le meilleur choix de plateforme pour centraliser le contenu était **GitHub** : création de workshops, publications de supports de cours mais surtout revue de code et versionning, c’est donc la collection d'outils idéale à utiliser !
+
+## Prérequis techniques
+
+> https://guides.github.com/
+
+> https://github.com/simplonco/git-training
+
+## Nomenclature de nomage
 
 `{techno}-{type}-{name}`
 
-Les repo doivent être écrits sous cette forme afin d’uniformiser les catégories et de faciliter le travail de recherche et de référencement au sein de GitLab.
+Les dépots doivent être écrits sous cette forme afin d’uniformiser les catégories et de faciliter le travail de recherche et de référencement au sein de GitHub.
 
 Voici l’exemple d’un nom de repo, il est décomposé en **trois parties** :
 
 `php-workshops-twig`
 
-Il contient en **première partie** le nom de la technologie principale, ensuite il contient en **deuxième partie** la catégorie du repo d’après le tableau ci-dessous (vous remarquerez que le nom est toujours au pluriel) :
+Il contient en **première partie** le nom de la technologie principale, ensuite il contient en **deuxième partie** le type de contenu du décrit dans le tableau ci-dessous (vous remarquerez que le nom est toujours au pluriel) :
 
 <table>
   <tr>
@@ -51,16 +59,9 @@ Il contient en **première partie** le nom de la technologie principale, ensuite
   </tr>
 </table>
 
+Pour terminer, la **troisième partie** contient le nom du thème abordé dans ce dépôt.
 
-Pour terminer, la **troisième partie** contient le nom du thème abordé dans ce repo.
-
-Il faut essayer d’être simple et qu’il soit facilement compréhensible avec des mots clés pertinents (bootstrap, ui, ux, flex, materialize, jquery, send-mail etc…)
-
-## Éviter la redondance de contenu
-
-Afin de garder une cohérence dans le projet, il est nécessaire de bien faire une recherche dans le contenu avant de publier un nouveau repo.
-
-> _TODO_
+Il faut essayer d’être simple, fun et facilement compréhensible avec des mots clés pertinents, ex: `bootstrap-portfolio`, `UX-vs-UI`, `flexminator`, `send-mail-form`, etc...
 
 ## Créer un identifiant GitHub
 
@@ -68,23 +69,12 @@ Une connexion SSO avec Github est disponible. Nous vous conseillons d’utiliser
 
 ## Créer son groupe correspondant à sa promotion
 
-> _TODO_
+https://github.com/orgs/simplonco/teams
 
-## Ajouter un repo dans le groupe principal de `simplonco`
+> Ajouter un apprenant dans son groupe de promotion
 
-> _TODO_
+## Créer un repo dans le groupe principal de `simplonco`
 
-## Ajouter un repo du groupe `simplonco` dans son groupe de promotion
-
-> _TODO_
-
-## Ajouter un apprenant dans son groupe de promotion
-
-> _TODO_
-
-## Sources externes
-
-> _TODO_
-
+https://github.com/organizations/simplonco/repositories/new
 
 _To be continued.._
