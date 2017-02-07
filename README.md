@@ -55,7 +55,9 @@ $ git submodule foreach --recursive git checkout master
 
 ## How to Contribute
 
-Read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md)!
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/simplonco/training/issues)!
 
 
 _To be continued.._
