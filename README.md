@@ -44,7 +44,7 @@
   is the world’s # 1 programming language!
   Java can reduce costs, drive innovation, and improve application services as the programming language of choice for IoT, enterprise architecture, and cloud computing.
 
-## Setup
+## Setup (how to download everything)
 
 ```shell
 $ git clone --recursive https://github.com/simplonco/training/ simplonco
