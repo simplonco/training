@@ -2,12 +2,6 @@
 
 > Guidelines for repository contributors
 
-## Contexte historique
-
-Depuis 2011, Simplon.co réunit de plus en plus d’essaimages avec donc de plus en plus de formateurs. Chaque formateur a pu donc au fur et à mesure de sa formation, créer, utiliser et centraliser du contenu pour ses apprenants. Cependant, aucune plateforme n’avait été utilisée afin de réunir correctement et d’une manière utile au développement ces différents contenus.
-
-Suite à un audit auprès des formateurs, il s’est avéré que le meilleur choix de plateforme pour centraliser le contenu était **GitHub** : création de workshops, publications de supports de cours mais surtout revue de code et versionning, c’est donc la collection d'outils idéale à utiliser !
-
 ## Prérequis techniques
 
 > https://guides.github.com/
