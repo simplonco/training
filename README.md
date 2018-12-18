@@ -6,6 +6,8 @@
 
 * [Challenges](https://github.com/simplonco/challenges) are TDD exercices validated by [Travis CI](https://travis-ci.org/) (cool for algorithms teaching), was imported from [exercism.io](http://exercism.io/)
 
+* [Security](https://github.com/simplonco/security-training) : lots of ressources to learn how to secure your websites and apps. 
+
 ## Tools 
 
 * [UNIX](https://github.com/simplonco/unix-training)
