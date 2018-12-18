@@ -1,5 +1,5 @@
 # [![Simplon.co](https://media.licdn.com/media/AAEAAQAAAAAAAAM8AAAAJGQyOGZhZmIxLWU4YzUtNDViMi1iZTA0LTUwZWY0NzBkODI4NA.png)](http://simplon.co/)
-
+   
 * [META](https://github.com/simplonco/meta-training) (General ressources)
 
 * [La Prairie](https://github.com/simplonco/prairie) is the first part of your training at Simplon.co: 20 days of full autonomy (your trainers will not give you any technical course) to learn the basics of web development!
